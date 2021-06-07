@@ -33,9 +33,10 @@ image:https://github-readme-stats.vercel.app/api/top-langs/?username=fredsuvn[]
 
 - ⚡ Fun fact:
 * I have three CATS, and I LOVE them!
-image:cats/cats1.png[]
-image:cats/cats2.png[]
-image:cats/cats3.png[]
-image:cats/cats4.png[]
-image:cats/cats5.png[]
-image:cats/cats6.png[]
+
+image:cats/cats1.png[,360]
+image:cats/cats2.png[,360]
+image:cats/cats3.png[,360]
+image:cats/cats4.png[,360]
+image:cats/cats5.png[,360]
+image:cats/cats6.png[,360]
