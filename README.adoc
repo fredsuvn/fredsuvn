@@ -3,24 +3,21 @@
 :url: https://github.com/fredsuvn
 :qq-group: QQ group: 1037555759
 
-image:https://github-readme-stats.vercel.app/api?username=fredsuvn[]
-image:https://github-readme-stats.vercel.app/api/top-langs/?username=fredsuvn[]
+*My open source projects: link:https://github.com/srclab-projects[SrcLab]*
+
+image::https://github-readme-stats.vercel.app/api?username=fredsuvn[]
+//image:https://github-readme-stats.vercel.app/api/top-langs/?username=fredsuvn[]
 
 //**fredsuvn/fredsuvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 //Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
-* link:https://github.com/srclab-projects[SrcLab]: My public projects;
-* link:https://github.com/suvn-projects[Suvn]: My personal projects;
 
-- 🌱 I’m currently learning:
-* link:https://www.debian.org/[Debian]: My personal server;
+*I WANT A JOB!*
 
-- 👯 I’m looking to collaborate on (for a `JOB`)
-* `Project Manager` about `java`, `kotlin`, `golang`...
-* `Logo Designer`, yes, I love designing;
-
+//- 🌱 I’m currently learning ...
+//- 👯 I’m looking to collaborate on ...
 //- 🤔 I’m looking for help with ...
 //- 💬 Ask me about ...
 
@@ -34,9 +31,18 @@ image:https://github-readme-stats.vercel.app/api/top-langs/?username=fredsuvn[]
 - ⚡ Fun fact:
 * I have three CATS, and I LOVE them!
 
-image:cats/cats1.png[,360]
-image:cats/cats2.png[,360]
-image:cats/cats3.png[,360]
-image:cats/cats4.png[,360]
-image:cats/cats5.png[,360]
-image:cats/cats6.png[,360]
+image:cats/01.png[,240]
+image:cats/02.png[,240]
+image:cats/03.png[,240]
+image:cats/04.png[,240]
+image:cats/05.png[,240]
+image:cats/06.png[,240]
+image:cats/07.png[,240]
+image:cats/08.png[,240]
+image:cats/09.png[,240]
+image:cats/10.png[,240]
+image:cats/11.png[,240]
+image:cats/12.png[,240]
+image:cats/13.png[,240]
+image:cats/14.png[,240]
+image:cats/15.png[,240]
