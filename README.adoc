@@ -3,7 +3,8 @@
 :url: https://github.com/fredsuvn
 :qq-group: QQ group: 1037555759
 
-*My open source projects: link:https://github.com/srclab-projects[SrcLab]*
+* *My open source projects: link:https://github.com/srclab-projects[SrcLab]*
+* *My logo arts: link:https://github.com/fredsuvn/logo-art[Logo Art]*
 
 image::https://github-readme-stats.vercel.app/api?username=fredsuvn[]
 //image:https://github-readme-stats.vercel.app/api/top-langs/?username=fredsuvn[]
