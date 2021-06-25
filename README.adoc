@@ -3,20 +3,19 @@
 :url: https://github.com/fredsuvn
 :qq-group: QQ group: 1037555759
 
-* *My open source projects: link:https://github.com/srclab-projects[SrcLab]*
-* *My logo arts: link:https://github.com/fredsuvn/logo-art[Logo Art]*
-
-image::https://github-readme-stats.vercel.app/api?username=fredsuvn[]
-//image:https://github-readme-stats.vercel.app/api/top-langs/?username=fredsuvn[]
-
 //**fredsuvn/fredsuvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 //Here are some ideas to get you started:
 
-- 🔭 I’m currently working on:
+* *I am a _Coder_, this is my open source projects: image:https://raw.githubusercontent.com/srclab-projects/srclab-home/main/logo.svg[,32] link:https://github.com/srclab-projects[SrcLab];*
+* *I am a _Poet_, this is my poems: image:https://raw.githubusercontent.com/fredsuvn/poem-art/main/logo.svg[,32] link:https://github.com/fredsuvn/poem-art[Poem Art];*
+* *I am a _Designer_, this is my logos: image:https://raw.githubusercontent.com/fredsuvn/logo-art/master/logo.svg[,32] link:https://github.com/fredsuvn/logo-art[Logo Art];*
+* *And I am in a _Big Family_: image:https://raw.githubusercontent.com/suvn-projects/suvn-home/master/logo.svg[,32] link:https://github.com/suvn-projects[Suvn]!*
 
-*I WANT A JOB!*
+image::https://github-readme-stats.vercel.app/api?username=fredsuvn&count_private=true&theme=dracula[]
+//image:https://github-readme-stats.vercel.app/api/top-langs/?username=fredsuvn[]
 
+//- 🔭 I’m currently working on:
 //- 🌱 I’m currently learning ...
 //- 👯 I’m looking to collaborate on ...
 //- 🤔 I’m looking for help with ...
@@ -30,20 +29,21 @@ image::https://github-readme-stats.vercel.app/api?username=fredsuvn[]
 //- 😄 Pronouns: ...
 
 - ⚡ Fun fact:
-* I have three CATS, and I LOVE them!
 
-image:cats/01.png[,240]
-image:cats/02.png[,240]
-image:cats/03.png[,240]
-image:cats/04.png[,240]
-image:cats/05.png[,240]
-image:cats/06.png[,240]
-image:cats/07.png[,240]
-image:cats/08.png[,240]
-image:cats/09.png[,240]
-image:cats/10.png[,240]
-image:cats/11.png[,240]
-image:cats/12.png[,240]
-image:cats/13.png[,240]
-image:cats/14.png[,240]
-image:cats/15.png[,240]
+*I have three CATS, and I LOVE them!*
+
+image:cats/01.png[,180]
+image:cats/02.png[,180]
+image:cats/03.png[,180]
+image:cats/04.png[,180]
+image:cats/05.png[,180]
+image:cats/06.png[,180]
+image:cats/07.png[,180]
+image:cats/08.png[,180]
+image:cats/09.png[,180]
+image:cats/10.png[,180]
+image:cats/11.png[,180]
+image:cats/12.png[,180]
+image:cats/13.png[,180]
+image:cats/14.png[,180]
+image:cats/15.png[,180]
