@@ -41,5 +41,4 @@
 *.vsd  binary
 
 # special files:
-gradlew eol=lf
 *.binary binary
